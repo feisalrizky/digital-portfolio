@@ -31,3 +31,4 @@ Hi! I'm Rizky, a forestry graduate from Tadulako University with strong experien
 ## 📫 Contact Me
 - 📧 Email: ichal.rizky27@gmail.com  
 - 🔗 LinkedIn: [Rizky Kasmin](https://linkedin.com/in/rizkykasmin)
+📄 View full portfolio: [Click here](./portfolio.md)
